@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+ # Keep real identities out of the public repo
+docs/runbooks/identities.local.md
